@@ -2,14 +2,6 @@ html{
     box-sizing: border-box;
     height: 100%;
 }
-.logo {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 50px; /* thay đổi độ rộng theo ý muốn của bạn */
-    height: 100px;
-    padding: 10px;
-}
 
 *,
 *::before,
@@ -109,10 +101,6 @@ body{
 .triple{
     flex-basis: 73%;
 }
-/* 
-.logo{
-    height: 50px;
-    width: 50px;
-} */
+
 
 
